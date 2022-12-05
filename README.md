@@ -13,6 +13,13 @@ VerSe is a large scale, multi-detector, multi-site, CT spine dataset consisting 
 - Changing Orientation
 
 
-## Results:
+## Challenges:
+-   Different range of vertebrae in each scan
+    
+-   Highly unbalanced dataset due to absence of different parts of spine in different scans (Number of samples should be added here in Tabular form to discuss more in details)
+    
+-   Large variation in size of scans, which then resulted in poor performance of models due to resizing of scans
+-   Due to limitations in computational power, we had to crop the scans losing sequential/positional  information
 
+## Results:
 Achieved 92% dice score.
