@@ -9,8 +9,8 @@ VerSe is a large scale, multi-detector, multi-site, CT spine dataset consisting 
 [Link to dataset](https://paperswithcode.com/dataset/verse-1)
 
 ## Preprocessing:
-Resampling to 1mm
-Changing Orientation
+- Resampling to 1mm
+- Changing Orientation
 
 
 ## Results:
