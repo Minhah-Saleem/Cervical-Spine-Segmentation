@@ -24,4 +24,4 @@ VerSe is a large scale, multi-detector, multi-site, CT spine dataset consisting 
 -   Due to limitations in computational power, we had to crop the scans losing sequential/positional  information
 
 ## Results:
-Achieved 92% dice score.
+Achieved 95% dice score.
