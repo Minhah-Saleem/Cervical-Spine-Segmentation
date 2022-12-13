@@ -4,6 +4,8 @@ Segmentation and identification of the vertebrae is often a prerequisite for aut
 
 ![Cervical Spine](https://github.com/Minhah-Saleem/Cervical-Spine-Segmentation/blob/main/cervical.png)
 
+(a) represents sagittal view of original scan (b) represents labelled scan (c), (d), (e) and (f) represents 3D rendered segmented vertebrae
+
 ## Dataset:
 VerSe is a large scale, multi-detector, multi-site, CT spine dataset consisting of 374 scans from 355 patients. The challenge was held in two iterations in conjunction with MICCAI 2019 and 2020. The tasks evaluated for include: vertebral labelling and segmentation.
 [Link to dataset](https://paperswithcode.com/dataset/verse-1)
